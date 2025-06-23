@@ -86,12 +86,12 @@ This pipeline allows researchers to:
 
 ## 🌊 Author
 
-> Created by [Your Name].  
+> Created by Matt Hatami.  
 > If you use this code for your research, feel free to cite or reference.
 
 ---
 
 ## 📞 Contact
 
-For questions or collaborations, feel free to contact me on [LinkedIn](https://www.linkedin.com).
+For questions or collaborations, feel free to contact me on [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/matthewhatami/)).
 
